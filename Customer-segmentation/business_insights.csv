@@ -1,0 +1,5 @@
+Cluster,Segment_Name,Size,Percentage,Avg_Recency,Avg_Frequency,Avg_Monetary,Description,Recommended_Action
+0,At-Risk (Churning),158,31.6%,103.8 days,14.3 purchases,$3662.62,Previously valuable customers who haven't purchased recently,"Win-back campaigns, personalized offers, re-engagement emails"
+1,Champions (VIP),165,33.0%,25.3 days,27.4 purchases,$4262.87,High-value customers who purchase frequently and recently,"Reward loyalty, offer exclusive perks, early access to new products"
+2,Hibernating/Lost,101,20.2%,242.0 days,4.0 purchases,$852.23,Inactive customers with low engagement and old last purchase,"Low-cost reactivation campaigns, survey for feedback, or remove from active marketing"
+3,New/Promising,76,15.2%,10.9 days,2.7 purchases,$534.96,New customers with recent engagement but low purchase history,"Nurture with onboarding, educational content, first-purchase incentives"
